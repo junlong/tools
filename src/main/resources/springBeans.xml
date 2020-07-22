@@ -3,7 +3,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
 	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 
-    <bean id="helloBean" class="com.flybird.core.Helloworld">
+    <bean id="helloBean" class="com.github.junlong.Helloworld">
         <property name="name" value="tomabull" />
     </bean>
 

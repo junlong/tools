@@ -1,4 +1,4 @@
-package com.flybird.core;
+package com.github.junlong;
 
 /**
  * Created with IntelliJ IDEA.
