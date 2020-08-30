@@ -1,1 +1,1 @@
-mvn archetype:generate -DgroupId=com.flybird.core -DartifactId=Spring3Example -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.junlong -DartifactId=tools -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
